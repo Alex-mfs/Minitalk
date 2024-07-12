@@ -6,7 +6,7 @@
 /*   By: alfreire <alfreire@student.42.fr>          +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2024/07/12 12:45:28 by alfreire          #+#    #+#             */
-/*   Updated: 2024/07/12 21:43:28 by alfreire         ###   ########.fr       */
+/*   Updated: 2024/07/12 22:29:49 by alfreire         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
@@ -49,6 +49,5 @@ int	main(int ac, char **av)
 	}
 	else
 		ft_printf("You need to use 2 arguments:\n<PID> <STRING>\n");
-
 	return (0);
 }

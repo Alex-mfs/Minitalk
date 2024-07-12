@@ -6,10 +6,9 @@
 /*   By: alfreire <alfreire@student.42.fr>          +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2024/07/12 12:45:40 by alfreire          #+#    #+#             */
-/*   Updated: 2024/07/12 21:58:42 by alfreire         ###   ########.fr       */
+/*   Updated: 2024/07/12 22:30:07 by alfreire         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
-
 
 #include <signal.h>
 #include <stdio.h>
